@@ -1,13 +1,13 @@
-## Welcome to my profile 🉐
+## Welcome to my profile ✝️:🉐
 
 <!-- <img align="center" margin-bottom="65px" height="160em" src="https://i.imgur.com/XHpiJWl.jpeg"/> -->
 <table align="center">
   <tr>
     <td>
-      <img height="160em" src="https://i.imgur.com/XHpiJWl.jpeg"/>
+      <img height="160em" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb29kdGFmMzJ4cDBkaWhqNTE1cHptZWNnNG55cXU3OWtuYmZsbXQwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYDEdKjIeco0vFm/giphy.gif"/>
     </td>
     <td>
-      <img height="160em" src="https://giffiles.alphacoders.com/221/221932.gif"/>
+      <img height="160em" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3piend3dng4dThmOTRvNTF2ejJiYW13MGxsb3pteTcxYnk2NzJzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/96kl9Flfmoj4MBHM10/giphy.gif"/>
     </td>
   </tr>
 </table>
@@ -31,7 +31,7 @@
   <img align="center" alt="Willy-YOLO" height="40" width="40" src="https://img.icons8.com/?size=100&id=OsYb6orOaOVV&format=png&color=000000">
   <img align="center" alt="Willy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Willy-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="right" alt="Willy-pic" height="90" style="border-radius:50px;" src="https://images.gr-assets.com/hostedimages/1489104577ra/22185966.gif">
+  <img align="right" alt="Willy-pic" height="90" style="border-radius:50px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VnM2JpcGNjbXkwbmlodGpjNzE5MHgycHN3azF3czk2aDBzenZrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/17VZNYxNHAN37NLZis/giphy.gif">
   <img align="center" alt="Willy-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
 </div>
 
@@ -48,14 +48,14 @@
   ##
   
    ### 🎧 Ouvindo
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=willy221-br&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=willy221-br&redirect=true)
-  <img align="right" alt="Willy-pic" height="90" style="border-radius:50px;" src="https://th.bing.com/th/id/R.0b8b3856c9e2a8c5eee2a36e1af04d92?rik=vUkif%2fKJYuFWjA&riu=http%3a%2f%2fmedia.giphy.com%2fmedia%2fIeCVaFnmXFpjq%2fgiphy.gif&ehk=DCH1BJI1F%2ffm7XgU0W25WULY3talMWawc5OGB5aiNRg%3d&risl=&pid=ImgRaw&r=0">
+   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=willy221-br&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=willy221-br&redirect=true)
+  <img align="right" alt="Willy-pic" height="90" style="border-radius:50px;" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGhwcG95Zzg0anZhYzl4cHBqeWx4eGlydHZzazB6c3lpNjllMGI0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Mp63mwzsyfOSGuRNrQ/giphy.gif">
  
  ##
  
   ![Snake animation](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
   <h2>Viwer´s 🤯</h2>
-  <img align="left" alt="Willy-pic" height="90" style="border-radius:50px;" src="https://camo.githubusercontent.com/eeb3ec878841ded9dd1f030dc7f961ee7ab258774c4eca02d9c9c8ea7d5a2aa8/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f40424550622e6769746875622e726561646d65">
+  <img align="left" alt="Willy-pic" height="90" style="border-radius:50px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhzY2QweHJpamR6anNtOHFoczN1cXVmZzVtYWRhcG43c3plZWVvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nz0Pr7zKU459KXwbwb/giphy.gif">
  
 </div>  
