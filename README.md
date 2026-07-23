@@ -1,4 +1,4 @@
-## Welcome to my profile 🉐 🥇
+## Welcome to my profile 🉐
 
 <!-- <img align="center" margin-bottom="65px" height="160em" src="https://i.imgur.com/XHpiJWl.jpeg"/> -->
 <table align="center">
@@ -48,7 +48,7 @@
   ##
   
    ### 🎧 Ouvindo
-  ![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=willy221-br&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=7b0fc2&bar_color_cover=true)
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=willy221-br&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=willy221-br&redirect=true)
   <img align="right" alt="Willy-pic" height="90" style="border-radius:50px;" src="https://th.bing.com/th/id/R.0b8b3856c9e2a8c5eee2a36e1af04d92?rik=vUkif%2fKJYuFWjA&riu=http%3a%2f%2fmedia.giphy.com%2fmedia%2fIeCVaFnmXFpjq%2fgiphy.gif&ehk=DCH1BJI1F%2ffm7XgU0W25WULY3talMWawc5OGB5aiNRg%3d&risl=&pid=ImgRaw&r=0">
  
  ##
